@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  MyTimer
-//
-//  Created by Hidaka Yoshiki on 2023/11/18.
-//
-
 import SwiftUI
 
 struct ContentView: View {
